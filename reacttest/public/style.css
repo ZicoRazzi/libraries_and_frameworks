@@ -1,0 +1,21 @@
+.container{
+  width: 480px;
+  margin: 10px auto;
+
+}
+ 
+.content{
+  border: 2px solid #999;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.name{
+  color: green;
+
+}
+
+.text{
+  font: 16px/20px Helvetica, sans-serif;
+  color: red;
+}
